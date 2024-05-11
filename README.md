@@ -1,2 +1,2 @@
-Moje ustawienia dla easyeffects dla laptopów używanych przeze mnie.
-Filtr + wzmacniacz basów + korektor + narzędzia stereo + limiter, bez kompresora.
+My settings for easyeffects for the laptops I use.
+Filter + bass booster + equalizer + stereo tools + limiter, no compressor.
